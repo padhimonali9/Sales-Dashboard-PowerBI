@@ -98,6 +98,10 @@ Sales-Dashboard-PowerBI/
 ## 📷 Dashboard Preview
 
 👉 screenshots are here to showcase dashboard visuals
+<img width="1201" height="673" alt="dashboard_preview1" src="https://github.com/user-attachments/assets/f00cd6f7-ae18-4949-b929-40dd58105ba7" />
+<img width="1206" height="677" alt="dashboard_preview2" src="https://github.com/user-attachments/assets/406abedd-8873-4b2e-b25d-f2b140fea15a" />
+
+
 
 ---
 
@@ -121,8 +125,4 @@ This project demonstrates strong skills in:
 
 ---
 
-## 📬 Contact
 
-Feel free to connect for feedback, suggestions, or collaboration opportunities.
-
----
